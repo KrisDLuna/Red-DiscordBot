@@ -1,0 +1,27 @@
+{
+    "197801574305628161" : {
+        "BOT_PLAYS" : false,
+        "DELAY" : 15,
+        "MAX_SCORE" : 15,
+        "REVEAL_ANSWER" : true,
+        "TIMEOUT" : 120
+    },
+    "222771669469626370" : {
+        "BOT_PLAYS" : false,
+        "DELAY" : 15,
+        "MAX_SCORE" : 15,
+        "REVEAL_ANSWER" : true,
+        "TIMEOUT" : 120
+    },
+    "261364834929606666" : {
+        "BOT_PLAYS" : false,
+        "DELAY" : 15,
+        "MAX_SCORE" : 15,
+        "REVEAL_ANSWER" : true,
+        "TIMEOUT" : 120
+    },
+    "TRIVIA_BOT_PLAYS" : false,
+    "TRIVIA_DELAY" : 15,
+    "TRIVIA_MAX_SCORE" : 15,
+    "TRIVIA_TIMEOUT" : 120
+}

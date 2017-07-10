@@ -116,3 +116,47 @@ What is the element symbol of "Fermium"?`Fm
 What is the element symbol of "Mendelevium"?`Md
 What is the element symbol of "Nobelium"?`No
 What is the element symbol of "Lawrencium"?`Lr
+Which element has the highest melting point?`Tungsten
+Which element accounts for most of the human weight by mass percent?`Oxygen
+What element is known to cause madness in humans (e.g. Mad Hatter)?`Mercury
+Which element is most abundant in our teeth and bones?`Calcium
+How many elements are liquid at room temperature (20C/293K) (Answer without numerics)?`Two (Mercury and Bromine)`Two
+Name one element table salt is made of.`Sodium`Chlorine
+Which element is the most electrically conductive?`Silver
+Which element is most commonly used in electrical wiring?`Copper
+Which element is the most reactive metal?`Cesium`Caesium
+Which element is the most reactive non-metal?`Fluorine
+How many natural isotopes of Calcium exist? (Answer without numerics)`Six
+Deuterium and Tritium are isotopes of what element?`Hydrogen
+How many natural isotopes of Hydrogen exist? (Answer without numerics)`Three
+How many natural isotopes of Carbon exist? (Answer without numerics)`Three
+Which isotope of Carbon is used for Carbon dating?`Carbon-14`C-14
+Name a noble gas.`Helium`Neon`Argon`Krypton`Xenon`Radon`Oganesson
+Name an element of the pnictogen family.`Nitrogen`Phosphorus`Arsenic`Antimony`Bismuth`Moscovium
+Name a halogen.`Fluorine`Chlorine`Bromine`Iodine`Astatine`Tennessine
+What alphabet has not been used for an elemental symbol?`J`Q
+What is the densest element?`Osmium
+Which element is the least dense?`Hydrogen
+What element is the allotrope buckminsterfullerene (buckyball) composed of?`Carbon
+Name another element in the Boron group/family.`Aluminum`Aluminium`Gallium`Indium`Thallium`Nihonium
+Which metal can melt in your hands (at body temperature)?`Gallium
+Name an alkali metal.`Lithium`Sodium`Potassium`Rubidium`Cesium`Caesium`Francium
+Name an alkaline earth metal.`Beryllium`Magnesium`Calcium`Strontium`Barium`Radium
+What is the most common element on Earth?`Oxygen
+What is the most abundant element in the Earth’s crust after oxygen?`Silicon
+What element is typically used in galvanizing metals?`Zinc
+Bronze is an alloy of what two elements? (\_\_\_ and \_\_\_)`Copper and Tin`Tin and Copper
+Brass is an alloy of what two elements?`Copper and Zinc`Zinc and Copper
+Ferrous/Ferric refers to which element?`Iron
+Cuprous/Cupric refers to which element?`Copper
+Stannous/Stannic refers to which element?`Tin
+Plumbous/Plumbic refers to which element?`Lead
+What element is tin foil made of?`Aluminum`Aluminium
+What element is pencil lead made of?`Carbon
+What color does Copper (II) give off when burned?`Green
+What metal burns blue?`Arsenic`Indium`Lead
+What metal burns crimson?`Strontium
+What metal burns orange?`Sodium
+How many gases exist at room temperature (20C/293K)?`Eleven
+How many metalloids are there?`Seven
+Can Hydrogen be liquefied? (True/False)`True
